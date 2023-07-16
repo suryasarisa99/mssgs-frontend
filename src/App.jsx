@@ -7,7 +7,7 @@ import Signup from "./pages/Signup";
 import Sigin from "./pages/Sigin";
 import Message from "./pages/Message";
 import ChatList from "./pages/ChatList";
-import "./index.scss";
+import "./index.css";
 export default () => {
   let navigate = useNavigate();
   return (
